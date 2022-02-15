@@ -1,0 +1,12 @@
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\bin\Debug\net6.0\Cookbook.Common.deps.json
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\bin\Debug\net6.0\Cookbook.Common.dll
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\bin\Debug\net6.0\ref\Cookbook.Common.dll
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\bin\Debug\net6.0\Cookbook.Common.pdb
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\obj\Debug\net6.0\Cookbook.Common.csproj.AssemblyReference.cache
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\obj\Debug\net6.0\Cookbook.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\obj\Debug\net6.0\Cookbook.Common.AssemblyInfoInputs.cache
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\obj\Debug\net6.0\Cookbook.Common.AssemblyInfo.cs
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\obj\Debug\net6.0\Cookbook.Common.csproj.CoreCompileInputs.cache
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\obj\Debug\net6.0\Cookbook.Common.dll
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\obj\Debug\net6.0\ref\Cookbook.Common.dll
+D:\RiderProjects\Cookbook.Nuget\Cookbook.Common\obj\Debug\net6.0\Cookbook.Common.pdb

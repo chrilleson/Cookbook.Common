@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>Cookbook.Common</PackageId>
+        <Version>1.0.1</Version>
+        <Authors>Christoffer Ljungqvist</Authors>
+        <RootNamespace>Cookbook.Common.Contracts</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Using Include="Cookbook.Nuget.Contracts" />
+        <Using Include="Cookbook.Nuget.Enumerators" />
+        <Using Include="System.Diagnostics.CodeAnalysis" />
+        <Using Include="System.ComponentModel.DataAnnotations.Schema" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Contracts\ApiDTOs" />
+    </ItemGroup>
+</Project>
